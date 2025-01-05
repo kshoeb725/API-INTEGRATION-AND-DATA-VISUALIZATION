@@ -1,3 +1,5 @@
+#Make sure your Internet is connected while Executing the code.
+
 import requests
 import pandas as pd
 import matplotlib.pyplot as plt
